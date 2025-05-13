@@ -1,0 +1,15 @@
+# 前端
+node_modules/
+dist/
+.env
+
+# 后端
+__pycache__/
+*.pyc
+*.log
+.env
+db.sqlite3
+/static/
+
+# 通用
+.DS_Store
